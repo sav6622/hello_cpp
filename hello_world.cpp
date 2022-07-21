@@ -15,5 +15,8 @@ int main()
     cout << endl;
     cout << "test";
     cout << endl;
+    cout << endl;
+    cout << "test пример";
+    cout << endl;
 
 }
